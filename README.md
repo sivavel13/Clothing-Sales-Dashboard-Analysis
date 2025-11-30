@@ -111,14 +111,14 @@ The primary aim of this analysis is to transform raw sales data into actionable 
   - Trend analysis visuals
     
 **6. Dashboard Creation**
-  - Created an interactive, user-friendly dashboard in Tableau
+  - Created an interactive, user-friendly dashboard in Tableau Public.
   - Included filters for period, product category, location, etc.
   - Designed to support quick decision-making with high-level KPIs.
 
 **7. Insight Generation**
-  - Interpreted visual data into clear business insights
-  - Identified top-performing products, cities, channels, and seasons
-  - Highlighted bottlenecks such as cancellations or low-selling SKUs
+  - Interpreted visual data into clear business insights.
+  - Identified top-performing products, cities, channels, and seasons.
+  - Highlighted bottlenecks such as cancellations or low-selling SKUs.
 
 ### 🔍 Key Insights from the Sales Analysis
 
