@@ -13,7 +13,7 @@
 ### Project Overview
 This project involves the analysis of a simulated retail **Clothing Sales Dataset** to identify key performance indicators (KPIs), sales trends, and top-performing products/stores. The goal was to transform raw transaction data into actionable business intelligence using **Tableau Public** for visualization.
 
-This dashboard provides stakeholders with a clear, interactive view of the store's performance throughout 2023.
+This dashboard provides stakeholders with a clear, interactive view of the store's performance throughout 2023 and 2024.
 
 
 A static view of the final Tableau Public dashboard:
